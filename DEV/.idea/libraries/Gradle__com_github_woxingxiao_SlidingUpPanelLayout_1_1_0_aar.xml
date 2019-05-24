@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.woxingxiao:SlidingUpPanelLayout:1.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89b58eb2f25c5b8ffc6e0301f7b7a19c/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89b58eb2f25c5b8ffc6e0301f7b7a19c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89b58eb2f25c5b8ffc6e0301f7b7a19c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.woxingxiao/SlidingUpPanelLayout/1.1.0/596d92bd54d30fb5aeac805e64c44a73f8e6b4e9/SlidingUpPanelLayout-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

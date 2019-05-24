@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Wed May 22 10:45:24 CEST 2019
+7.path=lib/x86/libpl_droidsonroids_gif.so
+2.base=/Volumes/Toshiba 1TB/BurnFit/app/build/intermediates/transforms/dexMerger/debug/1
+5.set=ASSET
+0.path=lib/x86_64/libpl_droidsonroids_gif.so
+2.baseType=DIRECTORY
+3.base=/Volumes/Toshiba 1TB/BurnFit/app/build/intermediates/transforms/dexMerger/debug/0
+7.baseType=DIRECTORY
+2.set=DEX
+1.path=lib/arm64-v8a/libpl_droidsonroids_gif.so
+4.base=/Volumes/Toshiba 1TB/BurnFit/app/build/intermediates/transforms/dexMerger/debug/2
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=classes.dex
+5.base=/Volumes/Toshiba 1TB/BurnFit/app/build/intermediates/merged_assets/debug/out
+4.set=DEX
+3.path=classes.dex
+6.base=/Volumes/Toshiba 1TB/BurnFit/app/build/intermediates/transforms/mergeJniLibs/debug/0
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+7.base=/Volumes/Toshiba 1TB/BurnFit/app/build/intermediates/transforms/mergeJniLibs/debug/0
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=crashlytics-build.properties
+0.base=/Volumes/Toshiba 1TB/BurnFit/app/build/intermediates/transforms/mergeJniLibs/debug/0
+0.baseType=DIRECTORY
+3.set=DEX
+6.path=lib/armeabi-v7a/libpl_droidsonroids_gif.so
+1.base=/Volumes/Toshiba 1TB/BurnFit/app/build/intermediates/transforms/mergeJniLibs/debug/0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
